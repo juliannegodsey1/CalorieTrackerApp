@@ -25,3 +25,6 @@ The Calorie Counter app allows users to track their daily calorie intake and exp
 - CSS
 - JavaScript
 
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
